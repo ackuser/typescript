@@ -1,0 +1,14 @@
+{
+  "name": "6-decorators",
+  "version": "1.0.0",
+  "description": "```sh $ tsc --target ES5 --experimentalDecorators ``` #tsconfig.json ```javascript {  \"compilerOptions\": {      \"target\": \"ES5\",      \"experimentalDecorators\": true  } }  ```",
+  "main": "class.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "reflect-metadata": "^0.1.10"
+  }
+}
