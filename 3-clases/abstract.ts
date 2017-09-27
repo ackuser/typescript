@@ -14,4 +14,4 @@ class ElectricCar extends VehicleAbstract{
 	}
 }
 let myElectricCar = new ElectricCar();
-myCar.start();
+myElectricCar.start();
